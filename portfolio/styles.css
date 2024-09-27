@@ -1,0 +1,108 @@
+@import url('https://fonts.googleapis.com/css2?family=Micro+5&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Metal+Mania&display=swap');
+#Cv{
+    background-color: #d5f3da;
+    border: #d5f3da;
+    color: #333333;
+}
+#mail{
+    background-color: #8d599c;
+    border-color: #8d599c;
+}
+#linkedink{
+    background-color: #d5f3da;
+    border-color: #d5f3da;
+color: #333333;
+}
+#git{
+    background-color: #d5f3da;
+    border: #d5f3da;
+color: #333333;
+}
+#IG{
+    background-color: #d5f3da;
+    border: #d5f3da;
+color: #333333;
+}
+figcaption {
+    width: 250px;
+    height: 250px;
+    object-fit: cover;
+    overflow: hidden;
+}
+body{
+    background-color: rgb(252, 250, 248);
+}
+h1{
+    color: #333333;
+}
+h3{
+    color: #333333;
+}
+.navbar{
+    background-color: #e0e0e0;
+    border-radius: 0% 0% 10% 10%;
+}
+.green{
+    background-color: #e0e0e0;
+}
+p{
+    color: #333333;
+}
+#seeseese{
+    width: 125px;
+    height: 175px;
+}
+#achete{
+    width: 170px;
+    height: 175px;
+}
+#jsc{
+    width: 180px;
+    height: 180px;
+}
+#vu{
+    width: 200px;
+    height: 150px;
+}
+p{
+    font-size: 20px;
+}
+#nivel{
+   font-size: 20px;
+
+}
+#logro{
+    font-family: "Silkscreen", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+    color: #7D5BA6;
+}
+#tecno{
+    font-family: "Silkscreen", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+    color: #89CE94;
+}
+#midtext{
+    font-family: "Metal Mania", system-ui;
+  font-weight: 400;
+  font-style: normal;
+  color: #333333;
+}
+#achivements{
+    border: solid black;
+    border-left: 0;
+    border-right: 0;
+}
+#name{
+    font-size: 50px;
+    font-family: "Metal Mania", system-ui;
+    font-weight: 400;
+    font-style: normal;
+    color: #333333;
+}
+#wsap{
+    background-color: #8d599c;
+    border: 1% solid black;
+}
